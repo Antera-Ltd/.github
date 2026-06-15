@@ -35,7 +35,7 @@
 We build custom mobile apps, websites, and AI tools to help businesses grow faster and run smoother.
 
 <p align="center">
-    <img src="./shots/shot.png" alt="Antera Core Screenshot" width="800">
+    <img src="/shots/shot.png" alt="Antera Core Screenshot" width="800">
 </p>
 
 
