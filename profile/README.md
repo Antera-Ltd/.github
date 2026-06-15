@@ -1,12 +1,7 @@
 <p align="center">
-    <a href="https://github.com/Antera-Ltd/antera-core"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
-    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16-000000.svg"></a>
-    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19-61DAFB.svg"></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.x-3178C6.svg"></a>
-    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-4-38B2AC.svg"></a>
-    <a href="https://github.com/Antera-Ltd/antera-core/graphs/contributors"><img src="https://img.shields.io/github/contributors/Antera-Ltd/antera-core?color=blue"></a>
-    <a href="https://github.com/Antera-Ltd/antera-core/stargazers"><img src="https://img.shields.io/github/stars/Antera-Ltd/antera-core.svg?logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Antera-Ltd.antera-core" alt="visitors"/>   
+    <a href="https://github.com/Antera-Ltd/.github"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
+    <a href="https://github.com/Antera-Ltd/.github/graphs/contributors"><img src="https://img.shields.io/github/contributors/Antera-Ltd/antera-core?color=blue"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Antera-Ltd.github" alt="visitors"/>   
 </p>
 
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FA520F,100:000000&text=ANTERA&textBg=false&desc=Grow%20Your%20Business%20With%20Smart%20Technology&descAlign=75&fontAlign=50&descAlignY=70&fontColor=ffffff)
