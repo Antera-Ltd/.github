@@ -38,6 +38,6 @@ We work closely with clients to understand their unique business needs and devel
 
 
 <p align="center">
-    <img src="./shots/shot.png" alt="Antera Core Screenshot" width="800">
+    <img src="/shots/shot.png" alt="Antera Core Screenshot" width="800">
 </p>
 
