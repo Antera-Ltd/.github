@@ -28,7 +28,6 @@
 
 <br>
 
----
 
 ## 👋 Welcome to ANTERA
 
@@ -38,54 +37,3 @@ We build custom mobile apps, websites, and AI tools to help businesses grow fast
     <img src="/shots/shot.png" alt="Antera Core Screenshot" width="800">
 </p>
 
-
----
-
-##  What We Do
-
-| Area | What We Build |
-|------|----------------|
-| **Mobile Apps** | Fast, reliable apps that work perfectly even with slow internet |
-| **Web Platforms** | Real-time dashboards to manage sales, customers, and operations |
-| **AI Tools** | Smart systems that turn your data into clear business decisions |
-| **Communication** | SMS, USSD, and social media integration to reach every customer |
-| **Enterprise Systems** | High-speed infrastructure that scales with your business |
-
----
-##  Language Support
-
-We build for global and local audiences with support for:
-
-- 🇬🇧 **English** (EN)
-- 🇹🇿 **Swahili** (SW)
-- 🇵🇱 **Polish** (PL)
-
-
----
-
-##  Connect With Us
-
-| Platform | Link |
-|----------|------|
-| **Website** | [antera.co.tz](https://antera.co.tz) |
-| **WhatsApp** | [Chat with sales](https://wa.me/255760984921) |
-| **Email** | `info@antera.co.tz` |
-| **Blog** | [antera.co.tz/blog](https://antera.co.tz/blog) |
-
----
-
-##  Offices
-
-| Location | Address |
-|----------|---------|
-| 🇹🇿 **Dar es Salaam** | Headquarters |
-| 🇹🇿 **Dodoma** | Regional Office |
-| 🇵🇱 **Poland** | Remote Office |
-
----
-
-## Founded
-
->**2026**  Built in Tanzania, for the world.
-
----
