@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Antera-Ltd/.github"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
-    <a href="https://github.com/Antera-Ltd/.github/graphs/contributors"><img src="https://img.shields.io/github/contributors/Antera-Ltd/antera-core?color=blue"></a>
+    <a href="https://github.com/Antera-Ltd/.github/graphs/contributors"><img src="https://img.shields.io/github/contributors/Antera-Ltd/.github?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Antera-Ltd.github" alt="visitors"/>   
 </p>
 
