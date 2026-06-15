@@ -7,7 +7,6 @@
 
 <p align="center">
     <strong>Advanced Neural Technologies & Engineering Research Agency</strong><br>
-    Headquartered in Dar es Salaam, Tanzania engineering the future, from Africa to the world.
 </p>
 
 <h3>🚀 Quick Links</h3>
