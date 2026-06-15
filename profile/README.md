@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Antera-Ltd.github" alt="visitors"/>   
 </p>
 
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FA520F,100:000000&text=ANTERA&textBg=false&desc=descAlign=75&fontAlign=50&descAlignY=70&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FA520F,100:000000&text=ANTERA&textBg=false&desc=&descAlign=75&fontAlign=50&descAlignY=70&fontColor=ffffff)
 
 <p align="center">
     <strong>Advanced Neural Technologies & Engineering Research Agency</strong><br>
