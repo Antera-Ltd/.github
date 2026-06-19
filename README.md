@@ -30,7 +30,7 @@
 
 ## 👋 Welcome to ANTERA
 
-ANTERA is a technology company that builds custom mobile applications, web platforms, and AI driven tools to help businesses grow faster and run smoother. We deliver smart, scalable systems that enhance customer experience, increase operational efficiency, reduce costs, and unlock trapped business value, enabling enterprises to achieve superior growth, leap ahead of competitors, or take a blue ocean approach with new innovations that drive exponential growth.
+ANTERA is a technology company that builds systems, custom mobile applications, web platforms, and AI driven tools to help businesses grow faster and run smoother. We deliver smart, scalable systems that enhance customer experience, increase operational efficiency, reduce costs, and unlock trapped business value, enabling enterprises to achieve superior growth, leap ahead of competitors, or take a blue ocean approach with new innovations that drive exponential growth.
 
 Our mission is to empower businesses across Africa and beyond in their digital transformation journey, guiding them to the inflection point where companies unlock the trapped value living inside their operations to achieve superior growth, business transformation, and sustainable competitive advantage.
 
