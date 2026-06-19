@@ -13,7 +13,7 @@
 
 <div align="left">
     <a href="https://antera.co.tz"><img src="https://img.shields.io/badge/Visit%20Antera-00A98F?style=flat-square&logo=vercel&logoColor=white" alt="Visit Antera"></a>
-    <a href="mailto:hello@antera.co.tz"><img src="https://img.shields.io/badge/Contact%20Us-30302f?style=flat-square&logo=gmail" alt="Contact"></a>
+    <a href="mailto:info@antera.co.tz"><img src="https://img.shields.io/badge/Contact%20Us-30302f?style=flat-square&logo=gmail" alt="Contact"></a>
     <a href="https://wa.me/255760984921"><img src="https://img.shields.io/badge/Sales-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Sales WhatsApp"></a>
     <a href="https://github.com/Antera-Ltd/antera-core/discussions"><img src="https://img.shields.io/badge/Discussions-30302f?style=flat-square&logo=github" alt="Discussions"></a>
 </div>
